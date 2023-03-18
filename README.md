@@ -1,6 +1,9 @@
 # Blithe-Mental-Health 
 
-### Available Scripts
+### Available Scripts![2023-03-18](https://user-images.githubusercontent.com/71272614/226086127-9ee278e9-bece-4afa-9a33-569141722008.png)
+
+![2023-03-18 (1)](https://user-images.githubusercontent.com/71272614/226086137-305e8497-ad51-4f43-8a26-fe1b985a1b81.png)
+
 
 In the project directory, you can run:
 
